@@ -1,0 +1,8 @@
+C:\Users\james\Desktop\MIS333K Files\Li_James_HW1\Li_James_HW1\obj\Release\net6.0\PubTmp\Out\Li_James_HW1.exe
+C:\Users\james\Desktop\MIS333K Files\Li_James_HW1\Li_James_HW1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\james\Desktop\MIS333K Files\Li_James_HW1\Li_James_HW1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\james\Desktop\MIS333K Files\Li_James_HW1\Li_James_HW1\obj\Release\net6.0\PubTmp\Out\libman.json
+C:\Users\james\Desktop\MIS333K Files\Li_James_HW1\Li_James_HW1\obj\Release\net6.0\PubTmp\Out\Li_James_HW1.dll
+C:\Users\james\Desktop\MIS333K Files\Li_James_HW1\Li_James_HW1\obj\Release\net6.0\PubTmp\Out\Li_James_HW1.deps.json
+C:\Users\james\Desktop\MIS333K Files\Li_James_HW1\Li_James_HW1\obj\Release\net6.0\PubTmp\Out\Li_James_HW1.runtimeconfig.json
+C:\Users\james\Desktop\MIS333K Files\Li_James_HW1\Li_James_HW1\obj\Release\net6.0\PubTmp\Out\Li_James_HW1.pdb
